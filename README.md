@@ -6,7 +6,7 @@
 
 Using Constrained Quadratic Models, we can set an objective function and constraints for a given problem. Here, we will be working on making a program which gives an optimized selection of stocks. 
 
-In this exercise, two-year data for 10 stocks are used and their average return rates are calculated using daily closing prices. The stocks that we will consider in this exercise are "T" (AT&T), "SFL" (FSL), "PFE" (Pfizer), "XOM" (Exxon Mobil), "MO" (Altria Group), "VZ" (Verizon Communications), "IBM" (IBM), "TSLA" (Tesla), "GILD" (Gilead Sciences), and "GE" (General Electric). In the folder `data` we have provided CSV files with daily closing prices and monthly returns for each stock in this period of time.
+In this exercise, two-year data for 10 stotria Group), "VZ" (Verizon Communications), "IBM" (IBM), "TSLA" (Tesla), "GILD" (Gilead Sciences), and "GE" (General Electric). In the folder `data` we have provided CSV files with daily closing prices and monthly returns for each stock in this period of time.
 
 Using available data, we can analyze stocks individually. For example, the figure below shows a 50-day candlestick chart and its moving average over 5-day and 10-day windows for stock GE. However, a much more effective way to optimize a portfolio is to consider a collection of stocks and how they might balance each other out.
 
